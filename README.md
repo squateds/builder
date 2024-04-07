@@ -1,12 +1,12 @@
 ![palette](palette.jpg)
 # Web/Mobile HTML Builder & Editor 🚀
-### No-code HTML builder for your web and mobile apps based on [DaisyUI](https://daisyui.com/docs/install/) and [Tailwind](https://tailwindcss.com/docs).
+### No-code HTML builder for your web and mobile apps based on [AWDEV](https://www.awdev.eu.org) and [Tailwind](https://tailwindcss.com/docs).
 
-###### Built for you by [Vocamen](https://www.vocamen.com) with love 🤍
+###### Built for you by [Builder](https://awdev.eu.org/builder/index.html)) with love 🤍
 # 
 Feel free to use as-is, and contribute (it's really easy):
 
-🥇[ONLINE BUILDER](https://html-builder.vocamen.com/dist/)
+🥇[ONLINE BUILDER](https://awdev.eu.org/builder/index.html)
 
 ## Summary
 `TL;DR` Simply click ONLINE BUILDER and start building your HTML page.
@@ -29,11 +29,11 @@ If you'd like to contribute but don't want to download and install stuff, simply
 ## Download
 
 * CDN
-  * `https://unpkg.com/web-mobile-html-builder`
+  * `https://unpkg.com/builder`
 * NPM (not sure)
-  * `npm i web-mobile-html-builder`
+  * `npm i builder`
 * GIT
-  * `git clone https://github.com/vocamen/web-mobile-html-builder.git`
+  * `git clone https://github.com/squateds/builder.git`
 
 
 ## Development
@@ -41,8 +41,8 @@ If you'd like to contribute but don't want to download and install stuff, simply
 Clone the repository
 
 ```sh
-git clone --depth 1 https://github.com/vocamen/web-mobile-html-builder.git
-cd web-mobile-html-builder
+git clone --depth 1 https://github.com/squateds/builder.git
+cd builder
 ```
 
 ### Install dependencies
